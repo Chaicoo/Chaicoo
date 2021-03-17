@@ -1,6 +1,7 @@
 - Hi, I’m Francisco Gabriel Noleto Lima or Chico
-- I’m interested in backend
-- I’m currently learning Js, html and css
+- I'm a computer network technician
+- I’m interested in backend  
+- I’m currently learning js, html and css
 - contact: gabriellimma27@gmail.com || twitter.com/__chaico
 
 <!---
