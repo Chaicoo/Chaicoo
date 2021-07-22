@@ -1,4 +1,5 @@
 - Hi, I’m Francisco Gabriel Noleto Lima or Chico
+- Programmer c
 - I'm a computer network technician
 - I’m interested in backend  
 - I’m currently learning java, javascript, html and css
