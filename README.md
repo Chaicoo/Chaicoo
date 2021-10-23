@@ -1,8 +1,8 @@
-- Hi, I’m Francisco Gabriel Noleto Lima or Chico
-- Programmer C, JavaScript
-- I'm a computer network technician
-- contact: gabriellimma27@gmail.com || franciscol@acad.ifma.edu.br
-
+ # Eu sou o Francisco ou Chico <h1>
+## Contatos:
+  <a href = "mailto:gabriellimma27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "mailto:franciscol@acad.ifma.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href ="https://www.reddit.com/user/__chico"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> <a href ="https://twitter.com/__chaico"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <h2>
+  
 <div align="center">
   <a href="https://github.com/Chico06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chico06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
