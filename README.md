@@ -1,6 +1,6 @@
  # Me chamo Francisco, e sou estudante de ciência da computação
  
-## Meus contatos:
+### Meus contatos:
 
 <div align="center">
   <a href = "mailto:gabriellimma27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -18,7 +18,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaicoo&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
  
- ## Minhas habilidades:
+ ### Minhas habilidades:
  
 <div align="center">
 <div style="display: inline_block"><br>
@@ -35,7 +35,7 @@
   <img align="center" alt="Chico-Java" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 </div>
- 
+
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" width="210" height="190" style="border-radius:100px;" src="Img github/comp.gif" />
