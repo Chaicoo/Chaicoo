@@ -23,6 +23,6 @@
  
 <div align="center">
 <div style="display: inline_block"><br>
-  <img align="center" width="200" height="270" style="border-radius:100px;" src="Img github/comp.gif" />
+  <img align="center" width="210" height="190" style="border-radius:100px;" src="Img github/comp.gif" />
 </div>
 </div>
