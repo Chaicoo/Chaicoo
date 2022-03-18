@@ -36,8 +36,6 @@
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Chico-PHP" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Chico-Git" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Chico-Linux" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Chico-Figma" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
