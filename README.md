@@ -16,10 +16,6 @@
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="Chico-CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="Chico-PHP" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="Chico-Linux" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="Chico-Figma" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="Chico-React" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
