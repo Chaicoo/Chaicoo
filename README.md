@@ -1,9 +1,8 @@
  # Welcome to my github, hope you like what you find here
- 
 <div align="center">
   <a href="https://github.com/Chaicoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chaicoo&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaicoo&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chaicoo"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaicoo"/>
 </div>
  
  ### My skills:
