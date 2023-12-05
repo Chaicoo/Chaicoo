@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/Chaicoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chaicoo&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaicoo&show_icons=true&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaicoo&show_icons=true&layout=compact&langs_count=10&theme=dracula"/>
 </div>
  
  ### My skills:
