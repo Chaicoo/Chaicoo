@@ -15,14 +15,18 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="Chico-PHP" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="Chico-Figma" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+   <img align="center" alt="Chico-AWS" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="Chico-React" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="Chico-Npm" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Chico-Tailwind" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="Chico-Yarn" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">
+   <img align="center" alt="Chico-Nest" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="Chico-Tailwind" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+   <img align="center" alt="Chico-Docker" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img align="center" alt="Chico-Linux" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img align="center" alt="Chico-Mysql" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
  </div>
 </div>
